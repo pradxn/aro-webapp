@@ -3,6 +3,13 @@
 - social media app where you can post, repost, and comment, like, delete
 - likes are hidden to general public, hashtags, trending, better & secure messages
 
+## tech stack used
+### mobile app
+- 
+### web app
+-
+
+
 ### features
 - [ ] Login/Signup
 - [ ] Select interests and follow accounts based on them
